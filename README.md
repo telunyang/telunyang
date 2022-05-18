@@ -13,6 +13,7 @@
 - 全文檢索類：Solr、Elasticsearch
 - 版本控制類：GitHub
 - 影音轉檔類：ffmpeg
+- 聊天介面類：LINE Bot(Message API)
 
 ## 講師經歷
 - 資策會數位教育所數位人才培育中心講師（現為 資展國際股份有限公司）
