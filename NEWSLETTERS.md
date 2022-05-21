@@ -1,6 +1,8 @@
 # 電子報
 | 發布日期 | 名稱 | 連結 |
 |---|---|:---:|
+| [2021-12-20] | 使用GPT2-Chinese生成具有情感的中文對話文字 | [連結](https://www.cc.ntu.edu.tw/chinese/epaper/0059/20211220_5908.html) |
+| [2021-09-20] | 使用GPT2-Chinese生成中文小說 | [連結](https://www.cc.ntu.edu.tw/chinese/epaper/0058/20210920_5808.html) |
 | [2016-03-21] | Hadoop 簡易架設不求人 | [連結](http://www.cc.ntu.edu.tw/chinese/epaper/0036/20160321_3609.html) |
 | [2015-12-20] | Sphinx 搜尋引擎安裝教學 | [連結](http://www.cc.ntu.edu.tw/chinese/epaper/0035/20151220_3508.html) |
 | [2015-06-22] | HTML5 Video API與Apache mod h264 streaming的簡易串流技巧 | [連結](http://www.cc.ntu.edu.tw/chinese/epaper/0033/20150620_3308.html) |
