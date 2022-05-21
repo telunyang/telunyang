@@ -1,7 +1,10 @@
 # about_me
 關於我
 
-## 工作技能
+## 個人網站 & 近期使用技術
+[連結](https://darreninfo.cc/)
+
+## 工作技能（視任務使用）
 - 作業系統類：Ubuntu、Windows
 - 程式設計類：PHP、Python、Node.js
 - 網頁技術類：JavaScript、jQuery、HTML
@@ -15,7 +18,7 @@
 - 影音轉檔類：ffmpeg
 - 聊天介面類：LINE Bot(Message API)
 
-## 講師經歷
+## 電腦講師經歷
 - 資策會數位教育所數位人才培育中心講師（現為 資展國際股份有限公司）
 - 國立臺灣大學計算機中心資訊課程講師
 
