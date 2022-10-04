@@ -1,8 +1,10 @@
 # about_me
 關於我
 
-## 個人網站 & 近期使用技術
-[連結](https://darreninfo.cc/)
+## 個人資訊
+[LinkedIn](https://darreninfo.cc/)
+[Instagram](https://www.instagram.com/darreninfo.cc/)
+[YouTube](https://www.youtube.com/channel/UCUqT6-mTPkQkCyGjlbm3IMA)
 
 ## 工作技能（視任務使用）
 - 作業系統類：Ubuntu、Windows
