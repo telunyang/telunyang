@@ -2,7 +2,7 @@
 關於我
 
 ## 個人資訊
-- [LinkedIn](https://darreninfo.cc/)
+- [LinkedIn](https://www.linkedin.com/in/telunyang/)
 - [Instagram](https://www.instagram.com/darreninfo.cc/)
 - [YouTube](https://www.youtube.com/channel/UCUqT6-mTPkQkCyGjlbm3IMA)
 
