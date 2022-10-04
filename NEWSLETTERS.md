@@ -1,6 +1,7 @@
 # 電子報
 | 發布日期 | 名稱 | 連結 |
 |---|---|:---:|
+| [2022-09-20] | 使用PyAutoGUI開發桌面自動化程式 | [連結](https://www.cc.ntu.edu.tw/chinese/epaper/home/20220920_006203.html) |
 | [2021-12-20] | 使用GPT2-Chinese生成具有情感的中文對話文字 | [連結](https://www.cc.ntu.edu.tw/chinese/epaper/0059/20211220_5908.html) |
 | [2021-09-20] | 使用GPT2-Chinese生成中文小說 | [連結](https://www.cc.ntu.edu.tw/chinese/epaper/0058/20210920_5808.html) |
 | [2016-03-21] | Hadoop 簡易架設不求人 | [連結](http://www.cc.ntu.edu.tw/chinese/epaper/0036/20160321_3609.html) |
