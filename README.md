@@ -1,7 +1,7 @@
 # about_me
 關於我
 ```
-I have developed projects about web scraping and fine-tuning pre-trained models for years and recently learned data mining and machine learning skills. I hope to meet the requirements for industries or academic studies by using what I know and have learned.
+For years, I have developed projects related to web scraping and fine-tuning pre-trained models. Recently, I've also acquired skills in data mining and machine learning. I hope to fulfill the demands of both the industry and academic research with the knowledge I've gained.
 ```
 
 ## 個人資訊
