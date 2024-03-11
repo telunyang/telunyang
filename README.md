@@ -1,7 +1,7 @@
 # about_me
 關於我
 ```
-Throughout my career, I have dedicated myself to the development of several projects and the authoring of numerous papers in the field of Natural Language Processing (NLP). With the knowledge and expertise I have accumulated, I aspire to meet and exceed the expectations of both the industry and the academic community. My goal is to contribute significantly to advancements in NLP, bridging the gap between theoretical research and practical applications.
+For years, I have dedicated myself to the development of several projects and the authoring of numerous papers in the field of Natural Language Processing (NLP). With the knowledge and expertise I have accumulated, I aspire to meet and exceed the expectations of both the industry and the academic community. My goal is to contribute significantly to advancements in NLP, bridging the gap between theoretical research and practical applications.
 ```
 
 ## 個人網頁
