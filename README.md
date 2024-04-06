@@ -10,6 +10,7 @@ For years, I have dedicated myself to the development of several projects and th
 - [Facebook](https://www.facebook.com/profile.php?id=61551064765585)
 - [YouTube](https://www.youtube.com/channel/UCUqT6-mTPkQkCyGjlbm3IMA)
 - [ORCID](https://orcid.org/0000-0002-3351-1785)
+- [Google Scholar](https://scholar.google.com.tw/citations?user=Td99utMAAAAJ)
 
 ## 工作技能（視任務使用）
 - 作業系統類：Ubuntu、Windows
@@ -17,13 +18,13 @@ For years, I have dedicated myself to the development of several projects and th
 - 網頁技術類：JavaScript、jQuery、HTML
 - 地理資訊類：Leaflet.js
 - 資料庫設計類：MySQL、MariaDB、RDBMS
-- 神經網路類：預訓練模型 BERT 與 GPT 家族
-- 教育訓練類：Python 網路爬蟲、PHP、JavaScript、MySQL 講師
+- 神經網路類：Pretrained / Finetuning model
+- 教育訓練類：Python、PHP、JavaScript、MySQL
 - 記憶體快取類：memcached、redis
 - 全文檢索類：Solr、Elasticsearch、Faiss
 - 版本控制類：Git(Hub)
 - 影音轉檔類：ffmpeg
-- 聊天介面類：LINE Bot(Message API)
+- 聊天介面類：LINE Bot (Message API)
 
 ## 電腦講師經歷
 - 國立臺灣大學計算機中心資訊課程講師
